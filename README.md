@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @makeithappen3780
+- 👋 Hi, I’m @coderogre
 - 👀 I’m interested in playing guitar, Brazilian Jiu Jitsu, playing video games, being active
 - 🌱 I’m currently learning the very basics of coding via The Odin Project
 - 💞️ I’m looking to collaborate on not too sure yet!
